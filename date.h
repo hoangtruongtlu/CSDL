@@ -11,7 +11,7 @@ public:
 	{
 		d=1;
 		m=1;
-		y=200;
+		y=2018;
 	};
 	Date(int day, int month, int year)
 	{
